@@ -1,0 +1,11 @@
+/* TextOverlay.css */
+.overlay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,10 @@
+/* ImageDisplay.css */
+.image-container {
+    max-width: 100%;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+  }
+  
